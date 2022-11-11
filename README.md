@@ -10,11 +10,15 @@ Accomplished scientist with a wealth experience in a medical setting, extensive 
 
 ### Key Skills
 
-######***Science*** - Developing new assessments, 19 publications, maintaining and building optical systems.
-######***Teaching*** - Training teams of medical professionals to perform novel assessments Internationally.
-######***Programming***	- Excellent Python and Matlab programming for scientific applications and deep learning.
-######***Children*** - Thousands of hours experience with children (0-18).
-######***Disability*** - Seven years of experience as a carer.		
+###### ***Science*** - Developing new assessments, 19 publications, maintaining and building optical systems.
+
+###### ***Teaching*** - Training teams of medical professionals to perform novel assessments Internationally.
+
+###### ***Programming***	- Excellent Python and Matlab programming for scientific applications and deep learning.
+
+###### ***Children*** - Thousands of hours experience with children (0-18).
+
+###### ***Disability*** - Seven years of experience as a carer.		
 
 ___
 
@@ -27,7 +31,7 @@ ___
 
 ___
 
-###[1] Experience  
+### [1] Experience  
 
 #### Scientific Consultant, MeiraGTx, Mar 2019 – present (alongside role as Research Scientist)
 
@@ -65,7 +69,7 @@ ___
 
 ___
 
-###[4] Conferences and Hackathons
+### [4] Conferences and Hackathons
 -	UCL RITS & DiRAC Artificial Intelligence Bootcamp 2021
 -	The Association for Research in Vision and Ophthalmology (ARVO) Annual Meeting 2019 Vancouver
 -	Matlab Expo UK 2018
@@ -74,7 +78,7 @@ ___
 
 ___
 
-###[5] Computing
+### [5] Computing
 
 Excellent general computational skills, and very experienced with specialist software, especially in image manipulation. I have strong coding skills in Python and Matlab, developed mostly within a wide variety of scientific projects. My expertise is particularly in image processing and computer vision, and I have some recent experience with deep learning.
 
@@ -87,7 +91,7 @@ Some experience with other tools: **Jupyter**, **Github**, **Javascript**
 
 ___
 
-###[6] Volunteering
+### [6] Volunteering
 
 Following my role with disability advocacy, I decided to undertake some volunteering opportunities. In recent times I have been fortunate to have the following experiences.
 
