@@ -1,7 +1,8 @@
 # Thomas Kane
+###### *Scientist based in London*
+[email me](thomas.kane.ucl@gmail.com)
+___
 ###### CURRICULUM VITAE
-
-thomas.kane.ucl@gmail.com | 07791952155
 
 [[ORCID]](https://orcid.org/0000-0002-9809-2454) **0000-0002-9809-2454**
 
