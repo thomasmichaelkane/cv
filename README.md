@@ -1,5 +1,7 @@
 # Thomas Kane
+
 ###### *Scientist based in London*
+
 [email me](thomas.kane.ucl@gmail.com)
 
 ___
@@ -15,7 +17,7 @@ Accomplished scientist with a wealth experience in a medical setting, extensive 
 
 ##### ***Science*** - Developing new assessments, 19 publications, maintaining and building optical systems.
 
-##### ***Teaching*** - Training teams of medical professionals to perform novel assessments Internationally.
+##### ***Teaching*** - Training teams of medical professionals to perform novel assessments internationally.
 
 ##### ***Programming***	- Excellent Python and Matlab programming for scientific applications and deep learning.
 
