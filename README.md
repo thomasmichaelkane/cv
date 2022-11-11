@@ -63,7 +63,7 @@ Biology, Sociology
 
 ___
 
-###[3] Key Publications - ORCID
+### [3] Key Publications - ORCID
 -	***Kane T**, Zaman S, et al. Ophthalmic Genetics 2021* [[link]](https://www.tandfonline.com/doi/full/10.1080/13816810.2021.2015789)
 -	*Georgiou M, **Kane T**, et al. American Journal of Ophthalmology 2020* [[link]](https://www.ajo.com/article/S0002-9394(19)30547-1/fulltext)
 
