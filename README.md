@@ -1,7 +1,9 @@
 # Thomas Kane
 ###### *Scientist based in London*
 [email me](thomas.kane.ucl@gmail.com)
+
 ___
+
 ###### CURRICULUM VITAE
 
 [[ORCID]](https://orcid.org/0000-0002-9809-2454) **0000-0002-9809-2454**
@@ -11,15 +13,15 @@ Accomplished scientist with a wealth experience in a medical setting, extensive 
 
 ### Key Skills
 
-###### ***Science*** - Developing new assessments, 19 publications, maintaining and building optical systems.
+##### ***Science*** - Developing new assessments, 19 publications, maintaining and building optical systems.
 
-###### ***Teaching*** - Training teams of medical professionals to perform novel assessments Internationally.
+##### ***Teaching*** - Training teams of medical professionals to perform novel assessments Internationally.
 
-###### ***Programming***	- Excellent Python and Matlab programming for scientific applications and deep learning.
+##### ***Programming***	- Excellent Python and Matlab programming for scientific applications and deep learning.
 
-###### ***Children*** - Thousands of hours experience with children (0-18).
+##### ***Children*** - Thousands of hours experience with children (0-18).
 
-###### ***Disability*** - Seven years of experience as a carer.		
+##### ***Disability*** - Seven years of experience as a carer.		
 
 ___
 
