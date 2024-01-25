@@ -11,17 +11,17 @@ ___
 [[ORCID]](https://orcid.org/0000-0002-9809-2454) **0000-0002-9809-2454**
 
 
-Accomplished scientist with a wealth experience in a medical setting, extensive knowledge in vision and optics, and a background in physics and engineering. Strong skills in a scientific context; publications including first authorship, excellent programming in Python and Matlab, teaching experience internationally. A decade of experience working with children and young persons with disabilities.
+Accomplished scientist with a wealth experience in a medical setting, extensive knowledge in vision and optics, and a background in physics and engineering. Strong skills in a scientific context; publications including first authorship, excellent programming in Python, teaching experience internationally. A decade of experience working with children and young persons with disabilities. I currently work as a scientific consultant, mostly building python applications for university research labs, and teaching clinical trial assessments for pharmaceutical companies.
 
 ### Key Skills
 
 ##### ***Science*** - Developing new assessments, 19 publications, maintaining and building optical systems.
 
-##### ***Teaching*** - Training teams of medical professionals to perform novel assessments internationally.
+##### ***Teaching*** - Training teams of medical professionals to perform novel clinical trial assessments in London and internationally.
 
-##### ***Programming***	- Excellent Python and Matlab programming for scientific applications and deep learning.
+##### ***Programming***	- Very experienced with Python programming for scientific applications. Experience with Rust on my own projects.
 
-##### ***Children*** - Thousands of hours experience with children (0-18).
+##### ***Children*** - Thousands of hours experience working with children of all ages.
 
 ##### ***Disability*** - Seven years of experience as a carer.		
 
@@ -36,9 +36,13 @@ ___
 
 ___
 
-### [1] Experience  
+### [1] Experience
 
-#### Scientific Consultant, MeiraGTx, Mar 2019 – present (alongside role as Research Scientist)
+#### Scientific Consultant, UCL Institute of Ophthalmology, Sep 2022 – present
+
+I am currently working with teams at the UCL Institute of Ophthalmology to build software and provide scientific expertise on a range of projects. These are often related to my previous work in the field of inherited retinal disease, however I am now working on basic science instead of translational research. The majority of the output has been Python applications I have built myself, but I have also written with other languages and employed other software in this role. This includes other languages such as Rust, Arduino programming, and Matlab, as well as software like OnShape CAD and ImageJ. I also have significant responsibility with safe data storage and management, and have built several computers and experimental setups for research with animals such as mice.
+
+#### Scientific Consultant, MeiraGTx/Janssen Pharmaceuticals, Mar 2019 – present
 
 After working on the development of two novel functional tests to assess ocular function for use in clinical trials, I have continued to work as a consultant with the pharmaceutical company looking to employ these tests. We have worked under significant time pressure towards getting Food and Drug Administration (FDA) approval for these tests, and one is now the primary endpoint in a worldwide phase 3 gene therapy clinical trial. My key role is leading training sessions of teams of health professionals in other hospitals to perform this new assessment at sites around the world. I am using my experience to prepare others to perform the test to the standard that is required for high quality scientific measurements of any improvement in vision that results from this trial. I have gained invaluable experience teaching, and working with people from different countries and cultures.
 
@@ -85,14 +89,19 @@ ___
 
 ### [5] Computing
 
-Excellent general computational skills, and very experienced with specialist software, especially in image manipulation. I have strong coding skills in Python and Matlab, developed mostly within a wide variety of scientific projects. My expertise is particularly in image processing and computer vision, and I have some recent experience with deep learning.
+Excellent general computational skills, and very experienced with specialist software, especially in image manipulation. I have very strong coding skills in Python, developed mostly within a wide variety of scientific projects. My expertise is particularly in image processing and computer vision.
 
-**Python** – [OpenCV, Psychopy, Keras]
-**Matlab** - [CV toolbox]
+*Coding:*
+- **Python** *[OpenCV, Psychopy, Jupyter, PIL, SciPy, Shapely, Jupyter +]*
+- **Rust**
+- **Matlab**
+- **Javascript**
 
-Software: **Photoshop**, **Illustrator**, **ImageJ**
-
-Some experience with other tools: **Jupyter**, **Github**, **Javascript**
+*Software:* 
+- **Photoshop**
+- **Illustrator**
+- **ImageJ**
+- **OnShape**
 
 ___
 
