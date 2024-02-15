@@ -11,7 +11,7 @@ ___
 [[ORCID]](https://orcid.org/0000-0002-9809-2454) **0000-0002-9809-2454**
 
 
-Accomplished scientist with a wealth experience in a medical setting, extensive knowledge in vision and optics, and a background in physics and engineering. Strong skills in a scientific context; publications including first authorship, excellent programming in Python, teaching experience internationally. A decade of experience working with children and young persons with disabilities. I currently work as a scientific consultant, mostly building python applications for university research labs, and teaching clinical trial assessments for pharmaceutical companies.
+Accomplished scientist with a wealth of experience in a medical setting, extensive knowledge in vision and optics, and a background in physics and engineering. Strong skills in a scientific context; publications including first authorship, excellent programming in Python, teaching experience internationally. A decade of experience working with children and young persons with disabilities. I currently work as a scientific consultant, mostly building python applications for university research labs, and teaching clinical trial assessments for pharmaceutical companies.
 
 ### Key Skills
 
