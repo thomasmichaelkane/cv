@@ -8,10 +8,7 @@ ___
 
 ##### CURRICULUM VITAE
 
-[[ORCID]](https://orcid.org/0000-0002-9809-2454) **0000-0002-9809-2454**
-
-
-Accomplished scientist with a wealth experience in a medical setting, extensive knowledge in vision and optics, and a background in physics and engineering. Strong skills in a scientific context; publications including first authorship, excellent programming in Python, teaching experience internationally. A decade of experience working with children and young persons with disabilities. I currently work as a scientific consultant, mostly building python applications for university research labs, and teaching clinical trial assessments for pharmaceutical companies.
+Scientist/software developer with a years of experience in a medical research, extensive knowledge in vision and optics, and a background in physics and engineering. Strong skills in a science; publications including first authorship, excellent programming in Python, and teaching experience internationally. A decade of experience working with children and young persons with disabilities. My passion is working on programming or engineering projects to support advances in natural science. Especially those that will potentially have a significant impact on the quality of life of individuals with disability or the health of the planet.
 
 ### Key Skills
 
