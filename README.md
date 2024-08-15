@@ -41,8 +41,6 @@ ___
 
 UCL Institute of Ophthalmology - I am working on various projects in vision science with fellows at my previous full time workplace the UCL IoO. My role primarily consists of developing software to support the team in their research projects into vision science and gene therapy, whilst also inputting to the strategy of the projects. I am in discussion advising them on the feasibility of their research aims, and then designing, programming, and implementing the software to achieve these outcomes. I have developed multiple pieces of software that are currently in use on my own. I mostly work in Python, using specialist libraries such as OpenCV, DeepLabCut, PIL, Shapely, PsychoPy, as well as the more standard maths and data science ones. I also have some experience in Rust.
 
-See my Github for more information on these projects - https://github.com/thomasmichaelkane
-
 MeiraGTx - The development of novel functional tests to assess ocular function for use in clinical trials, now used in a worldwide phase 3 gene therapy clinical trial, and subsequent to this, utilised as a consultant by the pharmaceutical company looking to employ these tests. My main role as a consultant is leading team training sessions for health professionals in hospitals to perform this new assessment at sites around the world. I am using my experience with this test to best prepare others to perform the test to the standard required for high quality scientific measurements of any improvement in vision that results from this trial. I have gained invaluable experience teaching, and working with people from different countries and cultures.
 
 #### Senior Research Scientist, UCL Institute of Ophthalmology/Moorfields Eye Hospital, Apr 2017 – Oct 2022
