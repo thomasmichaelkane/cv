@@ -1,35 +1,34 @@
 # Thomas Kane
 
-###### *Scientist based in London*
+###### *Scientist/software developer based in London*
 
 [email me](thomas.kane.ucl@gmail.com)
 
 ___
 
-###### CURRICULUM VITAE
+##### CURRICULUM VITAE
 
-[[ORCID]](https://orcid.org/0000-0002-9809-2454) **0000-0002-9809-2454**
-
-
-Accomplished scientist with a wealth experience in a medical setting, extensive knowledge in vision and optics, and a background in physics and engineering. Strong skills in a scientific context; publications including first authorship, excellent programming in Python, teaching experience internationally. A decade of experience working with children and young persons with disabilities. I currently work as a scientific consultant, mostly building python applications for university research labs, and teaching clinical trial assessments for pharmaceutical companies.
+Scientist/software developer with a years of experience in a medical research, extensive knowledge in vision and optics, and a background in physics and engineering. Strong skills in a science; publications including first authorship, excellent programming in Python, and teaching experience internationally. A decade of experience working with children and young persons with disabilities. My passion is working on programming or engineering projects to support advances in natural science. Especially those that will potentially have a significant impact on the quality of life of individuals with disability or the health of the planet.
 
 ### Key Skills
 
-##### ***Science*** - Developing new assessments, 19 publications, maintaining and building optical systems.
+##### ***Software Development*** - Experienced Python developer for scientific applications and data science. Experience with Flask and Rust.
+
+##### ***Scientific Publication*** - Named author on 22 publications totalling 300+ citations (h-index 9).
+
+##### ***Engineering*** - Experience operating and maintaining research optical systems and other scientific hardware. Assisted build of an Adaptive Optics Scanning Light Ophthalmoscope.
 
 ##### ***Teaching*** - Training teams of medical professionals to perform novel clinical trial assessments in London and internationally.
 
-##### ***Programming***	- Very experienced with Python programming for scientific applications. Experience with Rust on my own projects.
-
-##### ***Children*** - Thousands of hours experience working with children of all ages.
-
-##### ***Disability*** - Seven years of experience as a carer.		
+##### ***Children/Vulnerable Adults*** - Five years of experience experience working with children of all ages. Seven years experience as a personal assistant/carer for a person with a disability.
 
 ___
 
+### Contents
+
 1. Experience
 2. Education
-3. Key publications
+3. Selected publications
 4. Conferences and hackathons
 5. Computing
 6. Volunteering
@@ -38,21 +37,23 @@ ___
 
 ### [1] Experience
 
-#### Scientific Consultant, UCL Institute of Ophthalmology, Sep 2022 – present
+#### Software Developer/Scientific Consultant, Self employed, Sep 2022 – present
 
-I am currently working with teams at the UCL Institute of Ophthalmology to build software and provide scientific expertise on a range of projects. These are often related to my previous work in the field of inherited retinal disease, however I am now working on basic science instead of translational research. The majority of the output has been Python applications I have built myself, but I have also written with other languages and employed other software in this role. This includes other languages such as Rust, Arduino programming, and Matlab, as well as software like OnShape CAD and ImageJ. I also have significant responsibility with safe data storage and management, and have built several computers and experimental setups for research with animals such as mice.
+UCL Institute of Ophthalmology - I am working on various projects in vision science with fellows at my previous full time workplace the UCL IoO. My role primarily consists of developing software to support the team in their research projects into vision science and gene therapy, whilst also inputting to the strategy of the projects. I am in discussion advising them on the feasibility of their research aims, and then designing, programming, and implementing the software to achieve these outcomes. I have developed multiple pieces of software that are currently in use on my own. I mostly work in Python, using specialist libraries such as OpenCV, DeepLabCut, PIL, Shapely, PsychoPy, as well as the more standard maths and data science ones. I also have some experience in Rust.
 
-#### Scientific Consultant, MeiraGTx/Janssen Pharmaceuticals, Mar 2019 – present
+See my Github for more information on these projects - https://github.com/thomasmichaelkane
 
-After working on the development of two novel functional tests to assess ocular function for use in clinical trials, I have continued to work as a consultant with the pharmaceutical company looking to employ these tests. We have worked under significant time pressure towards getting Food and Drug Administration (FDA) approval for these tests, and one is now the primary endpoint in a worldwide phase 3 gene therapy clinical trial. My key role is leading training sessions of teams of health professionals in other hospitals to perform this new assessment at sites around the world. I am using my experience to prepare others to perform the test to the standard that is required for high quality scientific measurements of any improvement in vision that results from this trial. I have gained invaluable experience teaching, and working with people from different countries and cultures.
+MeiraGTx - The development of novel functional tests to assess ocular function for use in clinical trials, now used in a worldwide phase 3 gene therapy clinical trial, and subsequent to this, utilised as a consultant by the pharmaceutical company looking to employ these tests. My main role as a consultant is leading team training sessions for health professionals in hospitals to perform this new assessment at sites around the world. I am using my experience with this test to best prepare others to perform the test to the standard required for high quality scientific measurements of any improvement in vision that results from this trial. I have gained invaluable experience teaching, and working with people from different countries and cultures.
 
 #### Senior Research Scientist, UCL Institute of Ophthalmology/Moorfields Eye Hospital, Apr 2017 – Oct 2022
 
-I worked for over five years as a research scientist at the UCL Institute of Ophthalmology, and carrying out a large proportion of my role in the world leading Moorfields Eye Hospital. The team, headed by Prof. Michel Michaelides and Prof. James Bainbridge, was running clinical trials for novel gene therapy treatments for people with rare inherited retinal diseases. These diseases are the most common form of blindness in the working age population. My work within this team spanned an array of disciplines. I saw research patients on a daily basis, and performed a variety of ophthalmological tests with them, including Ocular Coherence Tomography (OCT), visual field testing, colour vision tests to name just a few. A large proportion of the patients were young, and through working with them I have developed excellent skills working with children of all ages in a challenging setting; some of the tests with infants between 0-4 years of age. I had a leading role in the development of two new functional assessments for ocular clinical trials, which has led to my further work with MeiraGTx and other hospital sites. My core area of expertise however, was knowing every aspect of our Adaptive Optics Scanning Light Ophthalmoscope (AOSLO). It is a state of the art ophthalmoscope that allows in vivo imaging of cells in the retina. I operated, maintained, and calibrated the device, processed and analysed the images, and also developed new software to help us better interpret this novel data. In 2021 the team built an entirely new AOSLO from scratch with Prof. Alf Dubra, professor of optics at Stanford, the designer of the system. Whilst working with the vast amount of data collected, I became very proficient in Python and Matlab, especially in a scientific context. I was a named author in 19 publications produced by the lab, have a first authorship in Ophthalmic Genetics, and presented at the Association for Research in Vision and Ophthalmology (ARVO) Annual Meeting 2019.
+I worked for over five years as a research scientist at the UCL Institute of Ophthalmology, and carrying out a large proportion of my role in the world leading Moorfields Eye Hospital. Our team, headed by Prof. Michel Michaelides and Prof. James Bainbridge, was running clinical trials for novel gene therapy treatments for people with rare inherited retinal diseases. These diseases are the most common form of blindness in the working age population. My work within this team spanned an array of disciplines. I saw research patients on a daily basis, and performed a variety of ophthalmological tests with them, including Ocular Coherence Tomography (OCT), visual field testing, colour vision tests to name just a few. A large proportion of the patients I saw were children which has helped me develop excellent skills working with kids of all ages in a challenging setting; we have even performed some of the tests on infants between 0-4 years of age. I had a leading role in the development of two new functional assessments for ocular clinical trials, which has led to my further work with MeiraGTx and other hospital sites. My main area of expertise however, was knowing every aspect of our Adaptive Optics Scanning Light Ophthalmoscope (AOSLO). It is a state of the art ophthalmoscope that allows in vivo imaging of cells in the retina. I operated, maintained, and calibrated the device, processed and analysed the images, and also developed new software to help us better interpret this novel data. In 2021 we built an entirely new AOSLO from scratch with Prof. Alf Dubra, professor of optics at Stanford, the designer of the system. Whilst working with the vast amount of data that we collect, I became very proficient in Python and Matlab, especially in a scientific context. I also was a named author in 19 publications produced by our lab, have a first authorship in Ophthalmic Genetics, and presented at the Association for Research in Vision and Ophthalmology (ARVO) Annual Meeting 2019.
+
+*Titled Senior Research Scientist from October 2019*
 
 #### Personal Assistant/Disability Advocate, London, Nov 2013 – Aug 2020
 
-I worked as a part time personal assistant, whilst at university and for years since, for an individual with cerebral palsy, helping him to live day to day life like anyone else and participating in his campaigning for disability rights. This experience has shown me the obstacles an individual with a disability can face and the ways to overcome them as a team of two, these challenges being anything from simply navigating travel across London, to giving interviews and speaking at international conferences. This has taught me the real importance of organisation, punctuality and reliability, in a position of real responsibility for another person’s wellbeing. In my time working in this role, We attended the UN General Assembly 2016 and World Humanitarian Summit 2015 as delegates campaigning for the inclusion of persons with disabilities in humanitarian action. In my time working with him, I was very fortunate to see this individual receive many awards including an OBE.
+I worked as a part time personal assistant, whilst at university and since, for a young person with cerebral palsy, helping him in his day to day life; this gave me an excellent insight into the daily obstacles an individual with a disability faces.  I participated closely in his campaign for disability rights, supporting him in giving interviews/speaking at international conferences,  including the UN General Assembly 2016 and World Humanitarian Summit 2015, campaigning for the inclusion of persons with disabilities in humanitarian action. I also supported him in other projects in Istanbul, New York, and Rwanda promoting the rights of children with disabilities around the world.
 
 ___
 
@@ -60,21 +61,25 @@ ___
 
 #### University College London (2011 - 2015)
 
-***MSci Medical Physics***
-Research project - “Estimating Core Temperature Using Computer Vision Techniques in Matlab to Screen for Infectious Diseases”
+- ***MSci Medical Physics***
+
+    Research project - “Estimating Core Temperature Using Computer Vision Techniques in Matlab to Screen for Infectious Diseases”
 
 #### Borden Grammar School, Sittingbourne (2004 - 2011)
-***A-Levels***
+- ***A-Levels***
 Physics, Chemistry, Mathematics, Further Mathematics
 
-***AS-Levels***
+- ***AS-Levels***
 Biology, Sociology
 
 ___
 
-### [3] Key Publications - ORCID
--	***Kane T**, Zaman S, et al. Ophthalmic Genetics 2021* [[link]](https://www.tandfonline.com/doi/full/10.1080/13816810.2021.2015789)
+### [3] Selected Publications
+-	***Kane T**, et al. Ophthalmic Genetics 2021* [[link]](https://www.tandfonline.com/doi/full/10.1080/13816810.2021.2015789)
 -	*Georgiou M, **Kane T**, et al. American Journal of Ophthalmology 2020* [[link]](https://www.ajo.com/article/S0002-9394(19)30547-1/fulltext)
+-	*Georgiou M, Singh N, **Kane T**, et al. Investigative Ophthalmology & Visual Science 2020* [[link]](https://iovs.arvojournals.org/article.aspx?articleid=2763548)
+
+[[ORCID]](https://orcid.org/0000-0002-9809-2454) **0000-0002-9809-2454**
 
 ___
 
@@ -89,25 +94,28 @@ ___
 
 ### [5] Computing
 
-Excellent general computational skills, and very experienced with specialist software, especially in image manipulation. I have very strong coding skills in Python, developed mostly within a wide variety of scientific projects. My expertise is particularly in image processing and computer vision.
+Excellent general computational skills. I have strong coding skills in Python, developed mostly within a wide variety of scientific projects. I have also built full stack applications using Flask. Examples of these are all found on my GitHub. My expertise is particularly in image processing and computer vision. I also have some experience using Rust, and other languages
 
-*Coding:*
-- **Python** *[OpenCV, Psychopy, Jupyter, PIL, SciPy, Shapely, Jupyter +]*
+*Programming:*
+
+- **Python** *[NumPy, Pandas, OpenCV, PIL, SciPy, Shapely, SpaCy, +more]*
+- **Flask** *[Fullstack with jinja2, bootstrap, css, sqlalchemy]*
 - **Rust**
 - **Matlab**
-- **Javascript**
 
 *Software:* 
-- **Photoshop**
-- **Illustrator**
+
 - **ImageJ**
 - **OnShape**
+- **Photoshop**
+- **Illustrator**
 
+[[GITHUB]](https://github.com/thomasmichaelkane)
 ___
 
 ### [6] Volunteering
 
-Following my role with disability advocacy, I decided to undertake some volunteering opportunities. In recent times I have been fortunate to have the following experiences.
+Following my role with disability advocacy, I decided to undertake some volunteering opportunities. In recent years I have been fortunate to have the following experiences.
 
 -	***Ukraine (Mar-May 2022)*** – **Paracrew Norway** – Planning and logistics for delivering medicine and food inside Ukraine, and assistance at the border crossing with refugees, including providing shelter and blankets, and anti-trafficking duties.
 -	***Ukraine Medyka Border (Mar-May 2022)***  – **World Central Kitchen** – Handing out food night and day at the busiest refugee border crossing out of Ukraine.
